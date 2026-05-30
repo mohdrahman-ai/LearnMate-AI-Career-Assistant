@@ -18,8 +18,7 @@ Developed for the IBM SkillsBuild - AICTE Internship Program (May 2026 Batch)
 | Intern Name | Mohammed Abdul Rahman |
 | University / Institute | JNTUH University College of Engineering Palair |
 | AICTE Student ID | STU6976153e7cc851769346366 |
-| Student Enrollment Number | 23XY1A0524 |
-| Internship Program | IBM SkillsBuild - AICTE Internship |
+| Internship Program | IBM SkillsBuild University Engagement - AICTE Internship |
 | Domain | Artificial Intelligence & Cloud |
 | Project Title | LearnMate AI Career & Learning Assistant |
 | Tools Used | IBM watsonx.ai, IBM Granite, LangFlow, IBM Cloud Lite |
@@ -27,7 +26,7 @@ Developed for the IBM SkillsBuild - AICTE Internship Program (May 2026 Batch)
 
 ---
 
-# 🚀 Project Overview
+# Project Overview
 
 LearnMate is an AI-powered career and learning assistant developed using IBM watsonx.ai and IBM Granite foundation models.
 
@@ -43,7 +42,7 @@ The system leverages Agentic AI concepts to provide intelligent and adaptive res
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 User Input
 ⬇
@@ -59,7 +58,7 @@ Chat Output
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - IBM watsonx.ai
 - IBM Granite 4-h-small
@@ -67,23 +66,9 @@ Chat Output
 - IBM Cloud
 - Agentic AI
 - Prompt Engineering
-
 ---
 
-# 📸 Project Screenshots
-
-Add:
-
-- Architecture Blueprint
-- LangFlow Workflow
-- Agent Preview
-- Playground Testing
-
-inside the screenshots folder.
-
----
-
-# 🎯 Key Features
+# Key Features
 
 ✅ Personalized Learning Roadmaps
 
@@ -99,7 +84,7 @@ inside the screenshots folder.
 
 # 📜 Internship Program
 
-This project was developed as part of the IBM SkillsBuild - AICTE Internship Program focused on Artificial Intelligence and Cloud Technologies.
+This project was developed as part of the IBM SkillsBuild University Engagement - AICTE Internship Program focused on Artificial Intelligence and Cloud Technologies.
 
 ---
 
@@ -109,4 +94,4 @@ Mohammed Abdul Rahman
 
 JNTUH University College of Engineering Palair
 
-IBM SkillsBuild - AICTE Intern 2026
+IBM SkillsBuild University Engagement - AICTE Intern 2026
