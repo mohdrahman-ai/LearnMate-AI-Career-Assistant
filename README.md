@@ -2,7 +2,7 @@
 
 ### Empowering Personalized Learning Through Agentic AI
 
-Developed for the IBM SkillsBuild - AICTE Internship Program (May 2026 Batch)
+Developed for the IBM SkillsBuild University Engagement - AICTE Internship Program (May 2026 Batch)
 
 ![IBM](https://img.shields.io/badge/IBM-Watsonx-blue)
 ![Agentic AI](https://img.shields.io/badge/AGENTIC-AI-purple)
