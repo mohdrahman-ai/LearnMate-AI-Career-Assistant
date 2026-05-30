@@ -1,0 +1,20 @@
+{
+  "name": "LearnMate-AI-Career-Assistant",
+  "description": "An AI-powered Career and Learning Assistant built using IBM watsonx.ai, IBM Granite Models, and LangFlow.",
+  "version": "1.0.0",
+  "author": "Mohammed Abdul Rahman",
+  "internship": "IBM SkillsBuild University Engagement AICTE Internship 2026",
+  "university": "JNTUH University College of Engineering Palair",
+  "technologies": [
+    "IBM watsonx.ai",
+    "IBM Granite",
+    "LangFlow",
+    "Agentic AI"
+  ],
+  "features": [
+    "Career Guidance",
+    "Personalized Learning Roadmaps",
+    "AI-Powered Recommendations",
+    "Interactive Chat Interface"
+  ]
+}
