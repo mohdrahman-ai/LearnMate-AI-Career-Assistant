@@ -1,4 +1,4 @@
-# 🎓 LearnMate AI Career & Learning Assistant
+# 🎓 LearnMate AI Career Assistant
 
 ### Empowering Personalized Learning Through Agentic AI
 
