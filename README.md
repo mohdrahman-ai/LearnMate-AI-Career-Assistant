@@ -19,10 +19,11 @@ Developed for the IBM SkillsBuild University Engagement - AICTE Internship Progr
 | University / Institute | JNTUH University College of Engineering Palair |
 | AICTE Student ID | STU6976153e7cc851769346366 |
 | Internship Program | IBM SkillsBuild University Engagement - AICTE Internship |
-| Domain | Artificial Intelligence & Cloud |
-| Project Title | LearnMate AI Career & Learning Assistant |
+| Internship Domain | Artificial Intelligence & Cloud |
+| Project Title | LearnMate AI Career Assistant |
+| Project Domain | Education |
 | Tools Used | IBM watsonx.ai, IBM Granite, LangFlow, IBM Cloud Lite |
-| Duration | May 2026 |
+| Duration | 4 Weeks |
 
 ---
 
